@@ -18,8 +18,8 @@ email: education@molssi.org
 description: >- # this means to ignore newlines until "baseurl:"
   2020 Berkeley MSSE Bootcamp.
 repository: molssi-education/berkeley-msse
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "education.molssi.org/berkeley-msse" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/berkeley-msse" # the subpath of your site, e.g. /blog
+url: "education.molssi.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MolSSI_NSF
 github_username:  molssi-education
 
