@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MolSSI Website Template
+title: MolSSI Berkeley MSSE Bootcamp
 email: education@molssi.org
 description: >- # this means to ignore newlines until "baseurl:"
-  A website for MolSSI Education.
-repository: molssi-education/website-template
-baseurl: "/website-template" # the subpath of your site, e.g. /blog
-url: "molssi-education.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  2020 Berkeley MSSE Bootcamp.
+repository: molssi-education/berkeley-msse
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "education.molssi.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MolSSI_NSF
 github_username:  molssi-education
 
@@ -32,7 +32,8 @@ plugins:
 # Navigation
 header_pages:
   - index.md
-  - page1.md
+  - instructors.md
+  - challenge.md
 
 # Gems
 plugins:
