@@ -44,6 +44,8 @@ Your assignment is to parse this file and pull out the values associated with th
 ```
 `...` indicates that you will have many more rows. We’ve only shown the first 10 here.
 
+Submit your code for Challenge 1 [here](https://molssi.typeform.com/to/W8szAK).
+
 ### Challenge 2: File parsing and molecular geometry calculation
 
 In the lesson materials, there is a file in the data folder called “water.xyz”. This is a very simple, standard file format that is often used to distribute molecular coordinates. The first line of the file is the number of atoms in the molecule, the second line is a title line (or may be blank), and the coordinates begin on the third line. The format of the coordinates is
@@ -67,6 +69,8 @@ H2 to H1 : 1.527
 H2 to H2 : 0.0
 ```
 
+Submit your code for Challenge 2 [here](https://molssi.typeform.com/to/DetJ73).
+
 ### Challenge 3: Creating a command line program
 
 For this challenge, you will return to your solution from Challenge 1.
@@ -89,4 +93,6 @@ positional arguments:
 optional arguments:
  -h, --help    show this help message and exit
 ```
+
+Submit your code for Challenge 3 [here](https://molssi.typeform.com/to/xtWK3H).
  
