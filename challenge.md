@@ -5,7 +5,7 @@ layout: default
 
 ## Programming Challenges
 
-Before you arrive at the bootcamp, we'd like to make sure you arrive with some Python skills. We will not be starting by teaching an introduction to programming, so it is important that you be able to program in Python before you arrive. This page outlines some programming challenges you can try to test your Python programming skills.
+Before you arrive at the bootcamp, we'd like to make sure you arrive with some basic Python skills. This page outlines some programming challenges you can try to test your Python programming skills.
 
 MolSSI is offering an introductory level Python Scripting webinar series the first If you are unsure of how to proceed, or are unable to complete the challenges outlined here, please sign up for our June webinar series! This program is taught live and is free to all participants. See more information [here](https://molssi.org/2020/05/18/june-webinar-series-fast-track-python-data-and-scripting/).
 
