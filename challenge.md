@@ -7,7 +7,7 @@ layout: default
 
 Before you arrive at the bootcamp, we'd like to make sure you arrive with some basic Python skills. This page outlines some programming challenges you can try to test your Python programming skills.
 
-MolSSI is offering an introductory level Python Scripting webinar series the first If you are unsure of how to proceed, or are unable to complete the challenges outlined here, please sign up for our June webinar series! This program is taught live and is free to all participants. See more information [here](https://molssi.org/2020/05/18/june-webinar-series-fast-track-python-data-and-scripting/).
+MolSSI is offering an introductory level Python Scripting webinar series the first two weeks of June. If you are unsure of how to proceed, or are unable to complete the challenges outlined here, please sign up for our June webinar series! This program is taught live and is free to all participants. See more information [here](https://molssi.org/2020/05/18/june-webinar-series-fast-track-python-data-and-scripting/).
 
 For these challenges, you will need to download some [data](https://education.molssi.org/python_scripting_cms/data/data.zip). This link is a zip folder which contains files you will work with for this challenge.
 
